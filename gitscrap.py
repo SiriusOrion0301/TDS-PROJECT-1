@@ -182,7 +182,7 @@ def main():
     with open('README.md', 'w') as f:
         f.write(f"""# GitHub Users in Boston
 
-This repository contains data about GitHub users in Boston with over 100 followers and their repositories.
+This repository contains data about GitHub users in Delhi with over 100 followers and their repositories.
 
 ## Files
 
