@@ -7,6 +7,7 @@ This repository contains data about GitHub users in Delhi with over 100 follower
 1. `users.csv`: Contains information about 425 GitHub users in Delhi with over 100 followers
 2. `repositories.csv`: Contains information about 30074 public repositories from these users
 3. `gitscrap.py`: Python script used to collect this data
+4. `consolidated_colab.ipynb`: Contains all the analysis code in colab files
 
 ## Data Collection
 
